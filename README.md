@@ -1,5 +1,3 @@
----
-
 📊 **Hitungan App**
 
 Hitungan App adalah aplikasi Flutter sederhana untuk melakukan perhitungan matematika dasar.
@@ -116,5 +114,3 @@ Langkah kontribusi:
 
 Project ini menggunakan MIT License.
 Silakan lihat file LICENSE untuk informasi lebih lanjut.
-
----
