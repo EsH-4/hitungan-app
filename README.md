@@ -34,9 +34,9 @@ Aplikasi ini dibuat menggunakan **Flutter dan Dart** serta mendukung berbagai pl
 
 ---
 
-# 📸 App Preview
+## 📸 App Preview
 
-![App Preview](assets/Home_Screen.png)
+<img src="assets/Home_Screen.png" width="300">
 
 📱 Calculator UI
 📊 Simple math calculation
@@ -141,18 +141,6 @@ flutter pub get
 
 ---
 
-# 🗺 Roadmap
-
-Rencana pengembangan aplikasi:
-
-* [ ] UI Calculator lebih bagus
-* [ ] History perhitungan
-* [ ] Dark Mode
-* [ ] Scientific calculator
-* [ ] Simpan hasil perhitungan
-
----
-
 # 🤝 Contributing
 
 Kontribusi sangat terbuka.
@@ -168,11 +156,30 @@ Langkah kontribusi:
 
 # 📄 License
 
-Project ini menggunakan **MIT License**.
+MIT License
 
-Lihat file **LICENSE** untuk detail.
+Copyright (c) 2026 Movic
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
 
 ---
 
 💙 Built with Flutter
+
 
