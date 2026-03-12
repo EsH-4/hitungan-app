@@ -36,21 +36,7 @@ Aplikasi ini dibuat menggunakan **Flutter dan Dart** serta mendukung berbagai pl
 
 # 📸 App Preview
 
-Tambahkan screenshot aplikasi di sini.
-
-Contoh:
-
-```
-assets/screenshot.png
-```
-
-atau
-
-```
-docs/app_preview.png
-```
-
-Contoh tampilan:
+![App Preview](assets/Home_Screen.png)
 
 📱 Calculator UI
 📊 Simple math calculation
@@ -189,3 +175,4 @@ Lihat file **LICENSE** untuk detail.
 ---
 
 💙 Built with Flutter
+
