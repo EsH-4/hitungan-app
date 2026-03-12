@@ -1,69 +1,120 @@
-📊 **Hitungan App**
+# 📊 Hitungan App
 
-Hitungan App adalah aplikasi Flutter sederhana untuk melakukan perhitungan matematika dasar.
-Aplikasi ini dibuat menggunakan Flutter dan Dart serta dapat dijalankan di berbagai platform.
+<p align="center">
 
-Platform yang didukung:
+![Flutter](https://img.shields.io/badge/Flutter-3.x-blue?logo=flutter)
+![Dart](https://img.shields.io/badge/Dart-3.x-blue?logo=dart)
+![Platform](https://img.shields.io/badge/Platform-Web%20%7C%20Android%20%7C%20Windows%20%7C%20Linux%20%7C%20macOS%20%7C%20iOS-green)
+![License](https://img.shields.io/badge/License-MIT-yellow)
+![GitHub Repo stars](https://img.shields.io/github/stars/username/hitungan_app?style=social)
 
-* Web
-* Android
-* Windows
-* Linux
-* macOS
-* iOS
+</p>
+
+**Hitungan App** adalah aplikasi Flutter sederhana untuk melakukan **perhitungan matematika dasar**.
+Aplikasi ini dibuat menggunakan **Flutter dan Dart** serta mendukung berbagai platform.
+
+🚀 **Supported Platforms**
+
+* 🌐 Web
+* 📱 Android
+* 💻 Windows
+* 🐧 Linux
+* 🍎 macOS
+* 📱 iOS
 
 ---
 
-✨ **Fitur**
+# ✨ Features
 
-* Perhitungan matematika dasar
-* Dibangun menggunakan Flutter dan Dart
-* Multi-platform (Web, Mobile, Desktop)
-* Mendukung Hot Reload saat development
+* ➕ Perhitungan matematika dasar
+* ⚡ Dibangun dengan **Flutter & Dart**
+* 🌍 **Multi-platform support**
+* 🔥 **Hot Reload** untuk development cepat
+* 🧩 Struktur project Flutter standar
 
 ---
 
-🛠 **Setup & Installation**
+# 📸 App Preview
 
-1. Install Flutter
+Tambahkan screenshot aplikasi di sini.
 
-Download dan install Flutter dari:
+Contoh:
+
+```
+assets/screenshot.png
+```
+
+atau
+
+```
+docs/app_preview.png
+```
+
+Contoh tampilan:
+
+📱 Calculator UI
+📊 Simple math calculation
+
+---
+
+# 🛠 Installation
+
+### 1 Install Flutter
+
+Download Flutter:
+
 [https://docs.flutter.dev/get-started/install](https://docs.flutter.dev/get-started/install)
 
-2. Cek Environment Flutter
+---
 
-Jalankan perintah berikut untuk memastikan Flutter sudah terinstall dengan benar:
+### 2 Check Environment
 
+Pastikan Flutter sudah siap.
+
+```
 flutter doctor
+```
 
-3. Masuk ke direktori project
+---
 
+### 3 Clone Repository
+
+```
+git clone https://github.com/username/hitungan_app.git
 cd hitungan_app
+```
 
 ---
 
-▶ **Menjalankan Aplikasi**
+# ▶ Run Application
 
-Web
+### 🌐 Web
 
+```
 flutter run -d chrome
+```
 
-Windows
+### 💻 Windows
 
+```
 flutter run -d windows
+```
 
-Android
+### 📱 Android
 
+```
 flutter run -d android
+```
 
 ---
 
-📁 **Struktur Project**
+# 📁 Project Structure
 
+```
 hitungan_app/
 
 lib/
-  main.dart
+ └── main.dart
 
 android/
 ios/
@@ -73,44 +124,68 @@ linux/
 macos/
 
 pubspec.yaml
+```
 
 ---
 
-🔄 **Development**
+# 🔄 Development
 
-Flutter menyediakan fitur Hot Reload untuk mempercepat proses development.
+Flutter menyediakan **Hot Reload** untuk mempercepat development.
 
-r  → Hot Reload
-R  → Hot Restart
+| Command | Function    |
+| ------- | ----------- |
+| r       | Hot Reload  |
+| R       | Hot Restart |
 
 ---
 
-📦 **Dependencies**
+# 📦 Dependencies
 
-Menambahkan dependency baru:
+Menambahkan dependency:
 
+```
 flutter pub add nama_package
+```
 
 Update dependency:
 
+```
 flutter pub get
+```
 
 ---
 
-🤝 **Contributing**
+# 🗺 Roadmap
 
-Kontribusi sangat terbuka untuk pengembangan project ini.
+Rencana pengembangan aplikasi:
+
+* [ ] UI Calculator lebih bagus
+* [ ] History perhitungan
+* [ ] Dark Mode
+* [ ] Scientific calculator
+* [ ] Simpan hasil perhitungan
+
+---
+
+# 🤝 Contributing
+
+Kontribusi sangat terbuka.
 
 Langkah kontribusi:
 
-1. Fork repository
-2. Buat branch baru
-3. Commit perubahan
-4. Buat Pull Request
+1 Fork repository
+2 Buat branch baru
+3 Commit perubahan
+4 Buat Pull Request
 
 ---
 
-📄 **License**
+# 📄 License
 
-Project ini menggunakan MIT License.
-Silakan lihat file LICENSE untuk informasi lebih lanjut.
+Project ini menggunakan **MIT License**.
+
+Lihat file **LICENSE** untuk detail.
+
+---
+
+💙 Built with Flutter
