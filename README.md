@@ -1,35 +1,51 @@
-📊 Hitungan App
+---
 
+📊 **Hitungan App**
 
+Hitungan App adalah aplikasi Flutter sederhana untuk melakukan perhitungan matematika dasar.
+Aplikasi ini dibuat menggunakan Flutter dan Dart serta dapat dijalankan di berbagai platform.
 
+Platform yang didukung:
 
+* Web
+* Android
+* Windows
+* Linux
+* macOS
+* iOS
 
+---
 
-Aplikasi Flutter untuk perhitungan matematika sederhana.
-Mendukung Web, Android, Windows, Linux, macOS, dan iOS.
+✨ **Fitur**
 
-✨ Fitur
+* Perhitungan matematika dasar
+* Dibangun menggunakan Flutter dan Dart
+* Multi-platform (Web, Mobile, Desktop)
+* Mendukung Hot Reload saat development
 
-Perhitungan matematika dasar
+---
 
-Dibangun dengan Flutter & Dart
+🛠 **Setup & Installation**
 
-Multi-platform support
+1. Install Flutter
 
-🛠️ Setup
+Download dan install Flutter dari:
+[https://docs.flutter.dev/get-started/install](https://docs.flutter.dev/get-started/install)
 
-Install Flutter
-https://docs.flutter.dev/get-started/install
+2. Cek Environment Flutter
 
-Cek environment:
+Jalankan perintah berikut untuk memastikan Flutter sudah terinstall dengan benar:
 
 flutter doctor
 
-Masuk ke direktori project:
+3. Masuk ke direktori project
 
 cd hitungan_app
 
-▶️ Menjalankan Aplikasi
+---
+
+▶ **Menjalankan Aplikasi**
+
 Web
 
 flutter run -d chrome
@@ -42,36 +58,63 @@ Android
 
 flutter run -d android
 
-📁 Struktur Project
+---
+
+📁 **Struktur Project**
 
 hitungan_app/
-├── lib/
-│ └── main.dart
-├── android/
-├── ios/
-├── web/
-├── windows/
-├── linux/
-├── macos/
-├── pubspec.yaml
 
-🔄 Development
+lib/
+  main.dart
 
-Hot reload saat development:
+android/
+ios/
+web/
+windows/
+linux/
+macos/
 
-r → hot reload
+pubspec.yaml
 
-R → hot restart
+---
 
-📦 Dependencies
+🔄 **Development**
 
-Tambah dependency:
+Flutter menyediakan fitur Hot Reload untuk mempercepat proses development.
+
+r  → Hot Reload
+R  → Hot Restart
+
+---
+
+📦 **Dependencies**
+
+Menambahkan dependency baru:
+
 flutter pub add nama_package
 
 Update dependency:
+
 flutter pub get
 
-📄 License
+---
+
+🤝 **Contributing**
+
+Kontribusi sangat terbuka untuk pengembangan project ini.
+
+Langkah kontribusi:
+
+1. Fork repository
+2. Buat branch baru
+3. Commit perubahan
+4. Buat Pull Request
+
+---
+
+📄 **License**
 
 Project ini menggunakan MIT License.
-Lihat file LICENSE untuk detail.
+Silakan lihat file LICENSE untuk informasi lebih lanjut.
+
+---
