@@ -1,17 +1,7 @@
 # 📊 Hitungan App
 
-<p align="center">
-
-![Flutter](https://img.shields.io/badge/Flutter-3.x-blue?logo=flutter)
-![Dart](https://img.shields.io/badge/Dart-3.x-blue?logo=dart)
-![Platform](https://img.shields.io/badge/Platform-Web%20%7C%20Android%20%7C%20Windows%20%7C%20Linux%20%7C%20macOS%20%7C%20iOS-green)
-![License](https://img.shields.io/badge/License-MIT-yellow)
-![GitHub Repo stars](https://img.shields.io/github/stars/username/hitungan_app?style=social)
-
-</p>
-
-**Hitungan App** adalah aplikasi Flutter sederhana untuk melakukan **perhitungan matematika dasar**.
-Aplikasi ini dibuat menggunakan **Flutter dan Dart** serta mendukung berbagai platform.
+**Hitungan App** is a simple Flutter application for performing **basic mathematical calculations**.
+This app is built using **Flutter and Dart**, supporting a wide range of platforms.
 
 🚀 **Supported Platforms**
 
@@ -26,17 +16,15 @@ Aplikasi ini dibuat menggunakan **Flutter dan Dart** serta mendukung berbagai pl
 
 # ✨ Features
 
-* ➕ Perhitungan matematika dasar
-* ⚡ Dibangun dengan **Flutter & Dart**
+* ➕ Basic mathematical calculations
+* ⚡ Built with **Flutter & Dart**
 * 🌍 **Multi-platform support**
-* 🔥 **Hot Reload** untuk development cepat
-* 🧩 Struktur project Flutter standar
+* 🔥 **Hot Reload** for rapid development
+* 🧩 Standard Flutter project structure
 
 ---
 
 ## 📸 App Preview
-
-<img src="assets/Home_Screen.png" width="300">
 
 📱 Calculator UI
 📊 Simple math calculation
@@ -47,7 +35,7 @@ Aplikasi ini dibuat menggunakan **Flutter dan Dart** serta mendukung berbagai pl
 
 ### 1 Install Flutter
 
-Download Flutter:
+Download Flutter SDK:
 
 [https://docs.flutter.dev/get-started/install](https://docs.flutter.dev/get-started/install)
 
@@ -55,19 +43,21 @@ Download Flutter:
 
 ### 2 Check Environment
 
-Pastikan Flutter sudah siap.
+Ensure your Flutter environment is ready.
 
-```
+```bash
 flutter doctor
+
 ```
 
 ---
 
 ### 3 Clone Repository
 
-```
+```bash
 git clone https://github.com/username/hitungan_app.git
 cd hitungan_app
+
 ```
 
 ---
@@ -76,20 +66,23 @@ cd hitungan_app
 
 ### 🌐 Web
 
-```
+```bash
 flutter run -d chrome
+
 ```
 
 ### 💻 Windows
 
-```
+```bash
 flutter run -d windows
+
 ```
 
 ### 📱 Android
 
-```
+```bash
 flutter run -d android
+
 ```
 
 ---
@@ -110,47 +103,50 @@ linux/
 macos/
 
 pubspec.yaml
+
 ```
 
 ---
 
 # 🔄 Development
 
-Flutter menyediakan **Hot Reload** untuk mempercepat development.
+Flutter provides **Hot Reload** to speed up the development process.
 
-| Command | Function    |
-| ------- | ----------- |
-| r       | Hot Reload  |
-| R       | Hot Restart |
+| Command | Function |
+| --- | --- |
+| r | Hot Reload |
+| R | Hot Restart |
 
 ---
 
 # 📦 Dependencies
 
-Menambahkan dependency:
+To add a dependency:
+
+```bash
+flutter pub add package_name
 
 ```
-flutter pub add nama_package
-```
 
-Update dependency:
+To update dependencies:
 
-```
+```bash
 flutter pub get
+
 ```
 
 ---
 
 # 🤝 Contributing
 
-Kontribusi sangat terbuka.
+Contributions are highly welcome.
 
-Langkah kontribusi:
+Steps to contribute:
 
-1 Fork repository
-2 Buat branch baru
-3 Commit perubahan
-4 Buat Pull Request
+1. Fork the repository
+2. Create a new branch
+3. Commit your changes
+4. Create a Pull Request
 
 ---
 
@@ -181,5 +177,3 @@ SOFTWARE.
 ---
 
 💙 Built with Flutter
-
-
