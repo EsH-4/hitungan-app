@@ -1,5 +1,15 @@
 # 📊 Hitungan App
 
+<p align="center">
+ 
+![Flutter](https://img.shields.io/badge/Flutter-3.x-blue?logo=flutter)
+![Dart](https://img.shields.io/badge/Dart-3.x-blue?logo=dart)
+![Platform](https://img.shields.io/badge/Platform-Web%20%7C%20Android%20%7C%20Windows%20%7C%20Linux%20%7C%20macOS%20%7C%20iOS-green)
+![License](https://img.shields.io/badge/License-MIT-yellow)
+![GitHub Repo stars](https://img.shields.io/github/stars/username/hitungan_app?style=social)
+
+</p>
+
 **Hitungan App** is a simple Flutter application for performing **basic mathematical calculations**.
 This app is built using **Flutter and Dart**, supporting a wide range of platforms.
 
@@ -25,6 +35,8 @@ This app is built using **Flutter and Dart**, supporting a wide range of platfor
 ---
 
 ## 📸 App Preview
+
+<img src="assets/Home_Screen.png" width="200">
 
 📱 Calculator UI
 📊 Simple math calculation
