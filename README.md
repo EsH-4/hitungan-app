@@ -99,27 +99,6 @@ flutter run -d android
 
 ---
 
-# 📁 Project Structure
-
-```
-hitungan_app/
-
-lib/
- └── main.dart
-
-android/
-ios/
-web/
-windows/
-linux/
-macos/
-
-pubspec.yaml
-
-```
-
----
-
 # 🔄 Development
 
 Flutter provides **Hot Reload** to speed up the development process.
