@@ -67,7 +67,7 @@ flutter doctor
 ### 3 Clone Repository
 
 ```bash
-git clone https://github.com/username/hitungan_app.git
+git clone https://github.com/EsH-4/hitungan-app.git
 cd hitungan_app
 
 ```
